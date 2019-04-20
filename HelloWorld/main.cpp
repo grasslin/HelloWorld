@@ -8,5 +8,6 @@ int main()
 	++a;
 	std::cout << "Just for test" << std::endl;
 	std::cout << a << std::endl;
+	system("pause");
 	return 0;
 }
